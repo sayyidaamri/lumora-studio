@@ -1,3 +1,5 @@
+![Preview](docs/preview/homepage.gif)
+
 # LUMØRA — brand studio website
 
 Plain static HTML/CSS/JS. No build step, no server needed: **double-click `index.html`** to open it.
